@@ -2,7 +2,7 @@
 
 Desarrollador **full stack** en Jerez de la Frontera (Cádiz), formado en Ingeniería Informática en la Universidad de Cádiz.
 
-Trabajo sobre todo con **Laravel, React y MySQL**, integro **IA y automatización** en procesos de empresa y tengo un perfil híbrido con **marketing digital (Meta Ads)**.
+Trabajo sobre todo con **Laravel, React y MySQL** e integro **IA y automatización** en procesos de empresa.
 
 - 🤖 Ahora mismo: automatización e integración de sistemas con IA (Claude API, n8n, WhatsApp Business API).
 - 💼 Desarrollo software a medida para clientes con Laravel y React.
@@ -33,7 +33,7 @@ Trabajo sobre todo con **Laravel, React y MySQL**, integro **IA y automatizació
 
 **Trabajo para empresa y clientes** (código privado):
 
-- **Agente de ventas con IA para WhatsApp:** atención al cliente y generación de presupuestos automatizadas con Claude API, n8n y WhatsApp Business API.
+- **Agente de ventas con IA para WhatsApp:** atención al cliente y generación de presupuestos automatizadas con Claude API, n8n y WhatsApp Business API. También gestioné la infraestructura de Meta Business y di apoyo en campañas de Meta Ads.
 - **Software de gestión a medida para una asociación:** SPA en React (PWA) con API REST en Laravel y MySQL, desplegada en producción.
 
 **En desarrollo:**
